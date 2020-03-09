@@ -8,6 +8,7 @@
         <option name="LAST_KNOWN_AGP_VERSION" value="3.3.0" />
       </configuration>
     </facet>
+<<<<<<< HEAD
     <facet type="android" name="Android">
       <configuration>
         <option name="SELECTED_BUILD_VARIANT" value="debug" />
@@ -84,6 +85,12 @@
       <excludeFolder url="file://$MODULE_DIR$/build" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+=======
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <orderEntry type="inheritedJdk" />
+>>>>>>> 55b8fa7596f070a31e61c238d4a0b79ffd2bf9a1
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
